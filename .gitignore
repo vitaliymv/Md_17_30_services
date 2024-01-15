@@ -1,0 +1,8 @@
+.idea
+.venv
+db.sqlite3
+core/__pycache__
+core/migrations/__pycache__
+core/templatetags/__pycache__
+Md_17_30_services/__pycache__
+.env
